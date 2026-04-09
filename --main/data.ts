@@ -8,42 +8,42 @@ export const TASKS: ProjectTask[] = [
     topic: '红色历史',
     language: '中英',
     difficulty: TaskDifficulty.MEDIUM,
-    deadline: '2026-2-01',
+    deadline: '2026-6-01',
     status: TaskStatus.RECRUITING,
-    description: '延安革命纪念馆合作项目，需具备一定的历史名词翻译基础。'
+    description: '需具备一定的历史名词翻译基础。'
   },
   {
     id: '2',
-    title: '延安革命纪念馆“铸魂”展览解说词',
-    category: '解说词',
-    topic: '展览',
-    language: '中日',
+    title: '《山海情》',
+    category: '电视剧',
+    topic: '脱贫攻坚',
+    language: '中英',
     difficulty: TaskDifficulty.HARD,
-    deadline: '2026-2-01',
+    deadline: '2026-6-21',
     status: TaskStatus.IN_PROGRESS,
-    description: '展览核心板块解说词翻译，要求风格庄重准确。'
+    description: '要求风格庄重准确，提前查证相关资料'
   },
   {
     id: '3',
     title: '红色旅游宣传短视频字幕',
     category: '宣传片',
     topic: '旅游',
-    language: '中俄',
+    language: '中英',
     difficulty: TaskDifficulty.EASY,
-    deadline: '2026-2-01',
+    deadline: '2026-7-01',
     status: TaskStatus.RECRUITING,
-    description: '面向俄罗斯游客的短视频推广，语言需生动活泼。'
+    description: '面向国外游客的短视频推广，语言需生动活泼。'
   },
   {
     id: '4',
-    title: '《保卫黄河》历史背景资料整理',
-    category: '文本整理',
-    topic: '音乐史',
-    language: '中文',
-    difficulty: TaskDifficulty.EASY,
-    deadline: '2026-2-01',
+    title: '《建档伟业》电影英文字幕',
+    category: '电影',
+    topic: '红色历史',
+    language: '中英',
+    difficulty: TaskDifficulty.HARD,
+    deadline: '2026-8-04',
     status: TaskStatus.COMPLETED,
-    description: '协助整理相关历史文献，为后续多语种翻译做准备。'
+    description: '要求风格庄重准确，提前查证相关历史文献'
   }
 ];
 
