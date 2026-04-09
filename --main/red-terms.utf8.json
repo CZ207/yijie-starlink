@@ -1,0 +1,1400 @@
+﻿[
+  {
+    "id": "1",
+    "term": "闀垮緛",
+    "translation": "The Long March",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "闀垮緛鏄巻鍙蹭笂鐨勫杩广€?(The Long March is a miracle in history.) [1]"
+  },
+  {
+    "id": "2",
+    "term": "鎶楁棩鎴樹簤",
+    "translation": "The War of Resistance Against Japanese Aggression",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "涓浗浜烘皯璧㈠緱浜嗕紵澶х殑鎶楁棩鎴樹簤銆?(The Chinese people won the great War of Resistance Against Japanese Aggression.) [4]"
+  },
+  {
+    "id": "3",
+    "term": "瑙ｆ斁鎬濇兂",
+    "translation": "Emancipate the mind",
+    "category": "鏀挎不鐞嗚",
+    "example": "鎴戜滑瑕佸潥鎸佽В鏀炬€濇兂銆佸疄浜嬫眰鏄€?(We must continue to emancipate the mind and seek truth from facts.) [2]"
+  },
+  {
+    "id": "4",
+    "term": "瀹炰簨姹傛槸",
+    "translation": "Seek truth from facts",
+    "category": "鏀挎不鐞嗚",
+    "example": "瀹炰簨姹傛槸鏄┈鍏嬫€濅富涔夌殑鏍规湰瑙傜偣銆?(Seeking truth from facts is the fundamental viewpoint of Marxism.) [5]"
+  },
+  {
+    "id": "5",
+    "term": "涓轰汉姘戞湇鍔?,
+    "translation": "Serve the people",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄥ績鍏ㄦ剰涓轰汉姘戞湇鍔℃槸鍏氱殑鏍规湰瀹楁棬銆?(Serving the people wholeheartedly is the fundamental purpose of the Party.) [5]"
+  },
+  {
+    "id": "6",
+    "term": "缇や紬璺嚎",
+    "translation": "The mass line",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏氬湪浠讳綍鏃跺€欓兘鎶婄兢浼楀埄鐩婃斁鍦ㄧ涓€浣嶏紝鍧氭寔缇や紬璺嚎銆?(The Party always puts the interests of the masses first and adheres to the mass line.) [4]"
+  },
+  {
+    "id": "7",
+    "term": "缁熶竴鎴樼嚎",
+    "translation": "The united front",
+    "category": "鏀挎不鐞嗚",
+    "example": "缁熶竴鎴樼嚎鏄厷澶哄彇闈╁懡銆佸缓璁俱€佹敼闈╀簨涓氳儨鍒╃殑閲嶈娉曞疂銆?(The united front is an important magic weapon for the Party to secure victories in revolution, development, and reform.) [3]"
+  },
+  {
+    "id": "8",
+    "term": "姝﹁鏂椾簤",
+    "translation": "Armed struggle",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "涓浗闈╁懡鐨勭壒鐐规槸姝﹁鐨勯潻鍛藉弽瀵规瑁呯殑鍙嶉潻鍛姐€?(A characteristic of the Chinese revolution is armed revolution against armed counter-revolution.) [5]"
+  },
+  {
+    "id": "9",
+    "term": "鍏氱殑寤鸿",
+    "translation": "Party building",
+    "category": "鏀挎不鐞嗚",
+    "example": "蹇呴』鍏ㄩ潰鎺ㄨ繘鍏氱殑寤鸿鏂扮殑浼熷ぇ宸ョ▼銆?(We must comprehensively advance the great new project of Party building.) [2]"
+  },
+  {
+    "id": "10",
+    "term": "閬典箟浼氳",
+    "translation": "The Zunyi Meeting",
+    "category": "閲嶈浼氳",
+    "example": "閬典箟浼氳鍦ㄦ瀬鍏跺嵄鎬ョ殑鍏冲ご鎸芥晳浜嗗厷銆?(The Zunyi Meeting saved the Party at a critical juncture.) [1]"
+  },
+  {
+    "id": "11",
+    "term": "鍗楁槍璧蜂箟",
+    "translation": "The Nanchang Uprising",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "鍗楁槍璧蜂箟鎵撳搷浜嗘瑁呭弽鎶楀浗姘戝厷鍙嶅姩娲剧殑绗竴鏋€?(The Nanchang Uprising fired the first shot of armed resistance against the Kuomintang reactionaries.) [1]"
+  },
+  {
+    "id": "12",
+    "term": "绉嬫敹璧蜂箟",
+    "translation": "The Autumn Harvest Uprising",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "绉嬫敹璧蜂箟鍚庯紝閮ㄩ槦鍚戜簳鍐堝北杩涘啗銆?(After the Autumn Harvest Uprising, the troops marched toward Jinggangshan.) [1]"
+  },
+  {
+    "id": "13",
+    "term": "浜曞唸灞遍潻鍛芥牴鎹湴",
+    "translation": "The Jinggangshan Revolutionary Base Area",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "姣涙辰涓滈瀵煎垱寤轰簡浜曞唸灞遍潻鍛芥牴鎹湴銆?(Mao Zedong led the establishment of the Jinggangshan Revolutionary Base Area.) [1]"
+  },
+  {
+    "id": "14",
+    "term": "鍙ょ敯浼氳",
+    "translation": "The Gutian Meeting",
+    "category": "閲嶈浼氳",
+    "example": "鍙ょ敯浼氳纭珛浜嗘€濇兂寤哄厷銆佹斂娌诲缓鍐涚殑鍘熷垯銆?(The Gutian Meeting established the principle of building the Party ideologically and the military politically.) [4]"
+  },
+  {
+    "id": "15",
+    "term": "寤跺畨鏁撮杩愬姩",
+    "translation": "The Yan'an Rectification Movement",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "寤跺畨鏁撮杩愬姩鏄竴娆℃繁鍒荤殑椹厠鎬濅富涔夋€濇兂鏁欒偛杩愬姩銆?(The Yan'an Rectification Movement was a profound campaign of Marxist ideological education.) [1]"
+  },
+  {
+    "id": "16",
+    "term": "涓叡涓€澶?,
+    "translation": "The First National Congress of the CPC",
+    "category": "閲嶈浼氳",
+    "example": "涓叡涓€澶х殑鍙紑瀹ｅ憡浜嗕腑鍥藉叡浜у厷鐨勬垚绔嬨€?(The convening of the First National Congress of the CPC proclaimed the founding of the Communist Party of China.) [1]"
+  },
+  {
+    "id": "17",
+    "term": "寮€鍥藉ぇ鍏?,
+    "translation": "The founding ceremony of the PRC",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "1949骞?0鏈?鏃ヤ妇琛屼簡寮€鍥藉ぇ鍏搞€?(The founding ceremony of the PRC was held on October 1, 1949.) [1]"
+  },
+  {
+    "id": "18",
+    "term": "鎶楃編鎻存湞",
+    "translation": "The War to Resist US Aggression and Aid Korea",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "浼熷ぇ鐨勬姉缇庢彺鏈濇垬浜変繚鍗簡鍜屽钩銆?(The great War to Resist US Aggression and Aid Korea safeguarded peace.) [4]"
+  },
+  {
+    "id": "19",
+    "term": "涓夊ぇ鏀归€?,
+    "translation": "The socialist transformation of agriculture, handicrafts, and capitalist industry and commerce",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "涓夊ぇ鏀归€犵殑瀹屾垚鏍囧織鐫€绀句細涓讳箟鍩烘湰鍒跺害鍦ㄦ垜鍥藉垵姝ョ‘绔嬨€?(The completion of the three socialist transformations marked the initial establishment of the basic socialist system in China.) [1]"
+  },
+  {
+    "id": "20",
+    "term": "鍗佷竴灞婁笁涓叏浼?,
+    "translation": "The Third Plenary Session of the 11th CPC Central Committee",
+    "category": "閲嶈浼氳",
+    "example": "鍗佷竴灞婁笁涓叏浼氬紑鍚簡鏀归潻寮€鏀惧巻鍙叉柊鏃舵湡銆?(The Third Plenary Session of the 11th CPC Central Committee ushered in a new historical period of reform and opening up.) [4]"
+  },
+  {
+    "id": "21",
+    "term": "鏀归潻寮€鏀?,
+    "translation": "Reform and opening up",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鏀归潻寮€鏀炬槸鍐冲畾褰撲唬涓浗鍛借繍鐨勫叧閿竴鎷涖€?(Reform and opening up is a crucial move determining the destiny of contemporary China.) [2]"
+  },
+  {
+    "id": "22",
+    "term": "缁忔祹鐗瑰尯",
+    "translation": "Special Economic Zones",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "娣卞湷绛夌粡娴庣壒鍖烘槸鏀归潻寮€鏀剧殑鎺掑ご鍏点€?(Special Economic Zones like Shenzhen are the pioneers of reform and opening up.) [2]"
+  },
+  {
+    "id": "23",
+    "term": "涓€鍥戒袱鍒?,
+    "translation": "One Country, Two Systems",
+    "category": "鏀挎不鐞嗚",
+    "example": "鎴戜滑鍧氭寔鈥滀竴鍥戒袱鍒垛€濇柟閽堬紝淇濇寔棣欐腐銆佹境闂ㄩ暱鏈熺箒鑽ｇǔ瀹氥€?(We uphold the policy of 'One Country, Two Systems' to maintain long-term prosperity and stability in Hong Kong and Macao.) [3]"
+  },
+  {
+    "id": "24",
+    "term": "娓汉娌绘腐",
+    "translation": "The people of Hong Kong administering Hong Kong",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄩ潰鍑嗙‘璐交鈥滄腐浜烘不娓€濇柟閽堛€?(Fully and faithfully implement the policy of 'the people of Hong Kong administering Hong Kong'.) [3]"
+  },
+  {
+    "id": "25",
+    "term": "婢充汉娌绘境",
+    "translation": "The people of Macao administering Macao",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氬畾涓嶇Щ璐交鈥滄境浜烘不婢斥€濆師鍒欍€?(Unswervingly implement the principle of 'the people of Macao administering Macao'.) [3]"
+  },
+  {
+    "id": "26",
+    "term": "楂樺害鑷不",
+    "translation": "A high degree of autonomy",
+    "category": "鏀挎不鐞嗚",
+    "example": "鐗瑰埆琛屾斂鍖轰韩鏈夐珮搴﹁嚜娌绘潈銆?(The special administrative regions enjoy a high degree of autonomy.) [3]"
+  },
+  {
+    "id": "27",
+    "term": "鍜屽钩缁熶竴",
+    "translation": "Peaceful reunification",
+    "category": "鏀挎不鐞嗚",
+    "example": "鎴戜滑鍧氭寔鈥滃拰骞崇粺涓€銆佷竴鍥戒袱鍒垛€濆熀鏈柟閽堛€?(We adhere to the basic policy of 'peaceful reunification and One Country, Two Systems'.) [2]"
+  },
+  {
+    "id": "28",
+    "term": "涔濅簩鍏辫瘑",
+    "translation": "The 1992 Consensus",
+    "category": "鏀挎不鐞嗚",
+    "example": "浣撶幇涓€涓腑鍥藉師鍒欑殑鈥滀節浜屽叡璇嗏€濇槸涓ゅ哺鍏崇郴鍜屽钩鍙戝睍鐨勬斂娌诲熀纭€銆?(The 1992 Consensus, which embodies the one-China principle, is the political foundation for the peaceful development of cross-Strait relations.) [3]"
+  },
+  {
+    "id": "29",
+    "term": "浜曞唸灞辩簿绁?,
+    "translation": "The Jinggangshan Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "鎴戜滑瑕佸ぇ鍔涘紭鎵簳鍐堝北绮剧銆?(We must vigorously carry forward the Jinggangshan Spirit.) [2]"
+  },
+  {
+    "id": "30",
+    "term": "寤跺畨绮剧",
+    "translation": "The Yan'an Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "寤跺畨绮剧鏄垜浠厷鐨勫疂璐电簿绁炶储瀵屻€?(The Yan'an Spirit is a precious spiritual wealth of our Party.) [1]"
+  },
+  {
+    "id": "31",
+    "term": "瑗挎煆鍧＄簿绁?,
+    "translation": "The Xibaipo Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "鐗㈣鈥滀袱涓姟蹇呪€濓紝寮樻壃瑗挎煆鍧＄簿绁炪€?(Bear in mind the 'Two Musts' and carry forward the Xibaipo Spirit.) [4]"
+  },
+  {
+    "id": "32",
+    "term": "浼熷ぇ寤哄厷绮剧",
+    "translation": "The great founding spirit of the Party",
+    "category": "绮剧鏂囧寲",
+    "example": "浼熷ぇ寤哄厷绮剧鏄腑鍥藉叡浜у厷鐨勭簿绁炰箣婧愩€?(The great founding spirit of the Party is the source of strength for the CPC.) [4]"
+  },
+  {
+    "id": "33",
+    "term": "绾㈣埞绮剧",
+    "translation": "The Red Boat Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "绾㈣埞绮剧鏄ず鐫€鍏变骇鍏氫汉鐨勫垵蹇冦€?(The Red Boat Spirit highlights the original aspiration of Chinese Communists.) [2]"
+  },
+  {
+    "id": "34",
+    "term": "闀垮緛绮剧",
+    "translation": "The Long March Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "鎴戜滑瑕佽蛋濂芥柊鏃朵唬鐨勯暱寰佽矾锛屽紭鎵紵澶ч暱寰佺簿绁炪€?(We must embark on a new Long March in the new era and carry forward the great Long March Spirit.) [2]"
+  },
+  {
+    "id": "35",
+    "term": "鎶楃編鎻存湞绮剧",
+    "translation": "The spirit of resisting US aggression and aiding Korea",
+    "category": "绮剧鏂囧寲",
+    "example": "浼熷ぇ鎶楃編鎻存湞绮剧璺ㄨ秺鏃剁┖銆佸巻涔呭讥鏂般€?(The great spirit of resisting US aggression and aiding Korea transcends time and space and remains forever relevant.) [4]"
+  },
+  {
+    "id": "36",
+    "term": "闆烽攱绮剧",
+    "translation": "The Lei Feng Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "璁╅浄閿嬬簿绁炲湪鏂版椂浠ｇ唤鏀炬柊鍏夎姃銆?(Let the Lei Feng Spirit shine with new luster in the new era.) [2]"
+  },
+  {
+    "id": "37",
+    "term": "鐒﹁绂勭簿绁?,
+    "translation": "The Jiao Yulu Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "鍏氬憳骞查儴瑕佸涔犲紭鎵劍瑁曠绮剧銆?(Party members and officials should learn from and carry forward the Jiao Yulu Spirit.) [2]"
+  },
+  {
+    "id": "38",
+    "term": "涓ゅ脊涓€鏄熺簿绁?,
+    "translation": "The spirit of the Two Bombs and One Satellite",
+    "category": "绮剧鏂囧寲",
+    "example": "绉戞妧宸ヤ綔鑰呬紶鎵胯€佷竴杈堚€滀袱寮逛竴鏄熲€濈簿绁炪€?(Scientific and technological workers inherit the spirit of the Two Bombs and One Satellite from the older generation.) [4]"
+  },
+  {
+    "id": "39",
+    "term": "鏂椾簤绮剧",
+    "translation": "The spirit of struggle",
+    "category": "绮剧鏂囧寲",
+    "example": "鍙戞壃鏂椾簤绮剧锛屽寮烘枟浜夋湰棰嗐€?(Carry forward the spirit of struggle and enhance the ability to struggle.) [3]"
+  },
+  {
+    "id": "40",
+    "term": "閽夐拤瀛愮簿绁?,
+    "translation": "The spirit of driving nails",
+    "category": "绮剧鏂囧寲",
+    "example": "骞蹭簨涓氳鍙戞壃閽夐拤瀛愮簿绁炪€?(We should carry forward the spirit of driving nails when undertaking causes.) [2]"
+  },
+  {
+    "id": "41",
+    "term": "宸ュ尃绮剧",
+    "translation": "The spirit of craftsmanship",
+    "category": "绮剧鏂囧寲",
+    "example": "澶у姏寮樻壃鍔虫ā绮剧銆佸姵鍔ㄧ簿绁炪€佸伐鍖犵簿绁炪€?(Vigorously carry forward the model worker spirit, the work ethic, and the spirit of craftsmanship.) [3]"
+  },
+  {
+    "id": "42",
+    "term": "鍔虫ā绮剧",
+    "translation": "The model worker spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "鍔虫ā绮剧鏄椂浠ｇ殑瀹濊吹璐㈠瘜銆?(The model worker spirit is a precious wealth of our times.) [2]"
+  },
+  {
+    "id": "43",
+    "term": "濂虫帓绮剧",
+    "translation": "The spirit of the Chinese women's national volleyball team",
+    "category": "绮剧鏂囧寲",
+    "example": "濂虫帓绮剧浠ｈ〃鐫€鍥㈢粨鍗忎綔銆侀〗寮烘嫾鎼忋€?(The spirit of the Chinese women's national volleyball team represents unity, cooperation, and tenacious struggle.) [2]"
+  },
+  {
+    "id": "44",
+    "term": "濉炵綍鍧濈簿绁?,
+    "translation": "The Saihanba Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "濉炵綍鍧濈簿绁炴槸鎺ㄨ繘鐢熸€佹枃鏄庡缓璁剧殑鐢熷姩瀹炶返銆?(The Saihanba Spirit is a vivid practice in promoting ecological progress.) [2]"
+  },
+  {
+    "id": "45",
+    "term": "鎺㈡湀绮剧",
+    "translation": "The lunar exploration spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "寮樻壃杩介€愭ⅵ鎯炽€佸媷浜庢帰绱㈢殑鎺㈡湀绮剧銆?(Carry forward the lunar exploration spirit of pursuing dreams and bravely exploring.) [2]"
+  },
+  {
+    "id": "46",
+    "term": "杞戒汉鑸ぉ绮剧",
+    "translation": "The spirit of manned spaceflight",
+    "category": "绮剧鏂囧寲",
+    "example": "涓浗鑸ぉ浜洪摳灏变簡鐗瑰埆鑳藉悆鑻︾殑杞戒汉鑸ぉ绮剧銆?(Chinese astronauts have forged the spirit of manned spaceflight characterized by special endurance of hardship.) [4]"
+  },
+  {
+    "id": "47",
+    "term": "涓浗姊?,
+    "translation": "The Chinese Dream",
+    "category": "鏍稿績姒傚康",
+    "example": "瀹炵幇涓崕姘戞棌浼熷ぇ澶嶅叴鐨勪腑鍥芥ⅵ銆?(Realize the Chinese Dream of national rejuvenation.) [2]"
+  },
+  {
+    "id": "48",
+    "term": "涓や釜涓€鐧惧勾",
+    "translation": "The Two Centenary Goals",
+    "category": "鏍稿績姒傚康",
+    "example": "鎴戜滑姝ｅ悜鐫€鈥滀袱涓竴鐧惧勾鈥濆鏂楃洰鏍囪繄杩涖€?(We are advancing toward the Two Centenary Goals.) [2]"
+  },
+  {
+    "id": "49",
+    "term": "浜斾綅涓€浣?,
+    "translation": "The Five-Sphere Integrated Plan",
+    "category": "鏍稿績姒傚康",
+    "example": "缁熺鎺ㄨ繘鈥滀簲浣嶄竴浣撯€濇€讳綋甯冨眬銆?(Coordinate the implementation of the Five-Sphere Integrated Plan.) [3]"
+  },
+  {
+    "id": "50",
+    "term": "鍥涗釜鍏ㄩ潰",
+    "translation": "The Four-Pronged Comprehensive Strategy",
+    "category": "鏍稿績姒傚康",
+    "example": "鍗忚皟鎺ㄨ繘鈥滃洓涓叏闈⑩€濇垬鐣ュ竷灞€銆?(Coordinate the advancement of the Four-Pronged Comprehensive Strategy.) [3]"
+  },
+  {
+    "id": "51",
+    "term": "鏂板彂灞曠悊蹇?,
+    "translation": "The new development philosophy",
+    "category": "鏀挎不鐞嗚",
+    "example": "瀹屾暣銆佸噯纭€佸叏闈㈣疮褰绘柊鍙戝睍鐞嗗康銆?(Apply the new development philosophy in full, in the right way, and in all fields of endeavor.) [3]"
+  },
+  {
+    "id": "52",
+    "term": "楂樿川閲忓彂灞?,
+    "translation": "High-quality development",
+    "category": "鏍稿績姒傚康",
+    "example": "楂樿川閲忓彂灞曟槸鍏ㄩ潰寤鸿绀句細涓讳箟鐜颁唬鍖栧浗瀹剁殑棣栬浠诲姟銆?(High-quality development is the primary task in building a modern socialist country in all respects.) [3]"
+  },
+  {
+    "id": "53",
+    "term": "鍏卞悓瀵岃",
+    "translation": "Common prosperity",
+    "category": "鏍稿績姒傚康",
+    "example": "鎵庡疄鎺ㄨ繘鍏ㄤ綋浜烘皯鍏卞悓瀵岃銆?(Solidly promote common prosperity for all our people.) [3]"
+  },
+  {
+    "id": "54",
+    "term": "浜虹被鍛借繍鍏卞悓浣?,
+    "translation": "A human community with a shared future",
+    "category": "鏀挎不鐞嗚",
+    "example": "鎺ㄥ姩鏋勫缓浜虹被鍛借繍鍏卞悓浣撱€?(Promote the building of a human community with a shared future.) [3]"
+  },
+  {
+    "id": "55",
+    "term": "涓€甯︿竴璺?,
+    "translation": "The Belt and Road Initiative",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "楂樿川閲忓叡寤衡€滀竴甯︿竴璺€濄€?(Promote high-quality Belt and Road cooperation.) [3]"
+  },
+  {
+    "id": "56",
+    "term": "鍥涗釜鎰忚瘑",
+    "translation": "The Four Consciousnesses",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄥ厷鍚屽織瑕佸寮衡€滃洓涓剰璇嗏€濄€?(All Party comrades must strengthen the Four Consciousnesses.) [2]"
+  },
+  {
+    "id": "57",
+    "term": "鍥涗釜鑷俊",
+    "translation": "The Four-sphere Confidence",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氬畾閬撹矾鑷俊銆佺悊璁鸿嚜淇°€佸埗搴﹁嚜淇°€佹枃鍖栬嚜淇°€?(Strengthen confidence in the path, theory, system, and culture of socialism with Chinese characteristics.) [2]"
+  },
+  {
+    "id": "58",
+    "term": "涓や釜缁存姢",
+    "translation": "The Two Upholds",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氬喅鍋氬埌鈥滀袱涓淮鎶も€濄€?(Resolutely ensure the Two Upholds.) [3]"
+  },
+  {
+    "id": "59",
+    "term": "涓浗鐗硅壊绀句細涓讳箟",
+    "translation": "Socialism with Chinese characteristics",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鍜屽彂灞曚腑鍥界壒鑹茬ぞ浼氫富涔夈€?(Uphold and develop socialism with Chinese characteristics.) [2]"
+  },
+  {
+    "id": "60",
+    "term": "姣涙辰涓滄€濇兂",
+    "translation": "Mao Zedong Thought",
+    "category": "鏀挎不鐞嗚",
+    "example": "姣涙辰涓滄€濇兂鏄┈鍏嬫€濆垪瀹佷富涔夊湪涓浗鐨勫垱閫犳€ц繍鐢ㄥ拰鍙戝睍銆?(Mao Zedong Thought is the creative application and development of Marxism-Leninism in China.) [4]"
+  },
+  {
+    "id": "61",
+    "term": "閭撳皬骞崇悊璁?,
+    "translation": "Deng Xiaoping Theory",
+    "category": "鏀挎不鐞嗚",
+    "example": "閭撳皬骞崇悊璁虹瀛﹀洖绛斾簡寤鸿涓浗鐗硅壊绀句細涓讳箟鐨勪竴绯诲垪鍩烘湰闂銆?(Deng Xiaoping Theory scientifically answered a series of basic questions concerning building socialism with Chinese characteristics.) [4]"
+  },
+  {
+    "id": "62",
+    "term": "涓変釜浠ｈ〃",
+    "translation": "The Theory of Three Represents",
+    "category": "鏀挎不鐞嗚",
+    "example": "濮嬬粓鍋氬埌鈥滀笁涓唬琛ㄢ€濇槸鎴戜滑鍏氱殑绔嬪厷涔嬫湰銆?(Always representing the Three Represents is the foundation for building our Party.) [4]"
+  },
+  {
+    "id": "63",
+    "term": "绉戝鍙戝睍瑙?,
+    "translation": "The Scientific Outlook on Development",
+    "category": "鏀挎不鐞嗚",
+    "example": "绉戝鍙戝睍瑙傜殑鏍稿績鏄互浜轰负鏈€?(The core of the Scientific Outlook on Development is putting people first.) [4]"
+  },
+  {
+    "id": "64",
+    "term": "涔犺繎骞虫柊鏃朵唬涓浗鐗硅壊绀句細涓讳箟鎬濇兂",
+    "translation": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄩ潰璐交涔犺繎骞虫柊鏃朵唬涓浗鐗硅壊绀句細涓讳箟鎬濇兂銆?(Fully implement Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era.) [3]"
+  },
+  {
+    "id": "65",
+    "term": "涓嶅繕鍒濆績锛岀墷璁颁娇鍛?,
+    "translation": "Stay true to our original aspiration and founding mission",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄥ厷鍚屽織鍔″繀涓嶅繕鍒濆績銆佺墷璁颁娇鍛姐€?(All Party comrades must stay true to our original aspiration and founding mission.) [3]"
+  },
+  {
+    "id": "66",
+    "term": "浼熷ぇ鏂椾簤",
+    "translation": "Great struggle",
+    "category": "鏍稿績姒傚康",
+    "example": "瀹炵幇浼熷ぇ姊︽兂锛屽繀椤昏繘琛屽叿鏈夎澶氭柊鐨勫巻鍙茬壒鐐圭殑浼熷ぇ鏂椾簤銆?(To realize our great dream, we must carry out a great struggle with many new historical features.) [2]"
+  },
+  {
+    "id": "67",
+    "term": "浼熷ぇ宸ョ▼",
+    "translation": "Great project",
+    "category": "鏍稿績姒傚康",
+    "example": "娣卞叆鎺ㄨ繘鍏氱殑寤鸿鏂扮殑浼熷ぇ宸ョ▼銆?(Deepen the great new project of Party building.) [3]"
+  },
+  {
+    "id": "68",
+    "term": "浼熷ぇ浜嬩笟",
+    "translation": "Great cause",
+    "category": "鏍稿績姒傚康",
+    "example": "鎺ㄨ繘涓浗鐗硅壊绀句細涓讳箟浼熷ぇ浜嬩笟銆?(Advance the great cause of socialism with Chinese characteristics.) [2]"
+  },
+  {
+    "id": "69",
+    "term": "浼熷ぇ姊︽兂",
+    "translation": "Great dream",
+    "category": "鏍稿績姒傚康",
+    "example": "瀹炵幇涓崕姘戞棌浼熷ぇ澶嶅叴鐨勪紵澶фⅵ鎯炽€?(Realize the great dream of national rejuvenation.) [2]"
+  },
+  {
+    "id": "70",
+    "term": "涔℃潙鎸叴",
+    "translation": "Rural revitalization",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鍏ㄩ潰鎺ㄨ繘涔℃潙鎸叴銆?(Comprehensively promote rural revitalization.) [3]"
+  },
+  {
+    "id": "71",
+    "term": "绮惧噯鎵惰传",
+    "translation": "Targeted poverty alleviation",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鎴戝浗鎵撹耽浜嗙簿鍑嗘壎璐敾鍧氭垬銆?(China has won the battle against poverty through targeted poverty alleviation.) [4]"
+  },
+  {
+    "id": "72",
+    "term": "缁挎按闈掑北灏辨槸閲戝北閾跺北",
+    "translation": "Lucid waters and lush mountains are invaluable assets",
+    "category": "鏍稿績姒傚康",
+    "example": "蹇呴』鐗㈠浐鏍戠珛鍜岃返琛岀豢姘撮潚灞卞氨鏄噾灞遍摱灞辩殑鐞嗗康銆?(We must firmly establish and act on the concept that lucid waters and lush mountains are invaluable assets.) [3]"
+  },
+  {
+    "id": "73",
+    "term": "鍏ㄩ潰寤烘垚灏忓悍绀句細",
+    "translation": "Build a moderately prosperous society in all respects",
+    "category": "鏍稿績姒傚康",
+    "example": "鎴戜滑宸茬粡瀹炵幇浜嗗叏闈㈠缓鎴愬皬搴风ぞ浼氱殑绗竴涓櫨骞村鏂楃洰鏍囥€?(We have realized the First Centenary Goal of building a moderately prosperous society in all respects.) [3]"
+  },
+  {
+    "id": "74",
+    "term": "渚涚粰渚х粨鏋勬€ф敼闈?,
+    "translation": "Supply-side structural reform",
+    "category": "鏍稿績姒傚康",
+    "example": "娣卞寲渚涚粰渚х粨鏋勬€ф敼闈┿€?(Deepen supply-side structural reform.) [2]"
+  },
+  {
+    "id": "75",
+    "term": "鍙屽惊鐜?,
+    "translation": "Dual circulation",
+    "category": "鏍稿績姒傚康",
+    "example": "鍔犲揩鏋勫缓浠ュ浗鍐呭ぇ寰幆涓轰富浣撱€佸浗鍐呭浗闄呭弻寰幆鐩镐簰淇冭繘鐨勬柊鍙戝睍鏍煎眬銆?(Accelerate the creation of a new development pattern focused on the domestic economy and featuring positive interplay between domestic and international economic flows, known as dual circulation.) [3]"
+  },
+  {
+    "id": "76",
+    "term": "鏂拌川鐢熶骇鍔?,
+    "translation": "New quality productive forces",
+    "category": "鏍稿績姒傚康",
+    "example": "鍔犲揩鍙戝睍鏂拌川鐢熶骇鍔涳紝鎵庡疄鎺ㄨ繘楂樿川閲忓彂灞曘€?(Accelerate the development of new quality productive forces and solidly promote high-quality development.) [2]"
+  },
+  {
+    "id": "77",
+    "term": "涓浗寮忕幇浠ｅ寲",
+    "translation": "Chinese modernization",
+    "category": "鏀挎不鐞嗚",
+    "example": "浠ヤ腑鍥藉紡鐜颁唬鍖栧叏闈㈡帹杩涗腑鍗庢皯鏃忎紵澶у鍏淬€?(Comprehensively advance national rejuvenation through Chinese modernization.) [3]"
+  },
+  {
+    "id": "78",
+    "term": "鍏ㄨ繃绋嬩汉姘戞皯涓?,
+    "translation": "Whole-process people's democracy",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍙戝睍鍏ㄨ繃绋嬩汉姘戞皯涓伙紝淇濋殰浜烘皯褰撳浣滀富銆?(Develop whole-process people's democracy and ensure that the people run the country.) [3]"
+  },
+  {
+    "id": "79",
+    "term": "渚濇硶娌诲浗",
+    "translation": "Law-based governance",
+    "category": "鏍稿績姒傚康",
+    "example": "鍏ㄩ潰渚濇硶娌诲浗鏄浗瀹舵不鐞嗙殑涓€鍦烘繁鍒婚潻鍛姐€?(Comprehensive law-based governance is a profound revolution in China's governance.) [3]"
+  },
+  {
+    "id": "80",
+    "term": "浠庝弗娌诲厷",
+    "translation": "Strict Party self-governance",
+    "category": "鏍稿績姒傚康",
+    "example": "鍏ㄩ潰浠庝弗娌诲厷姘歌繙鍦ㄨ矾涓娿€?(Comprehensive and strict Party self-governance is an unceasing endeavor.) [3]"
+  },
+  {
+    "id": "81",
+    "term": "鑷垜闈╁懡",
+    "translation": "Self-reform",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍕囦簬鑷垜闈╁懡鏄腑鍥藉叡浜у厷鍖哄埆浜庡叾浠栨斂鍏氱殑鏄捐憲鏍囧織銆?(Having the courage to carry out self-reform is the most prominent hallmark that distinguishes the Communist Party of China from other political parties.) [4]"
+  },
+  {
+    "id": "82",
+    "term": "鏍稿績浠峰€艰",
+    "translation": "Core socialist values",
+    "category": "绮剧鏂囧寲",
+    "example": "鍩硅偛鍜岃返琛岀ぞ浼氫富涔夋牳蹇冧环鍊艰銆?(Cultivate and apply core socialist values.) [2]"
+  },
+  {
+    "id": "83",
+    "term": "鏂囧寲鑷俊",
+    "translation": "Cultural confidence",
+    "category": "鏍稿績姒傚康",
+    "example": "娌℃湁楂樺害鐨勬枃鍖栬嚜淇★紝灏辨病鏈変腑鍗庢皯鏃忎紵澶у鍏淬€?(Without a high degree of cultural confidence, there will be no national rejuvenation.) [2]"
+  },
+  {
+    "id": "84",
+    "term": "鍘嗗彶鍞墿涓讳箟",
+    "translation": "Historical materialism",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鍘嗗彶鍞墿涓讳箟鐨勫熀鏈師鐞嗐€?(Adhere to the basic principles of historical materialism.) [2]"
+  },
+  {
+    "id": "85",
+    "term": "杈╄瘉鍞墿涓讳箟",
+    "translation": "Dialectical materialism",
+    "category": "鏀挎不鐞嗚",
+    "example": "杩愮敤杈╄瘉鍞墿涓讳箟涓栫晫瑙傚拰鏂规硶璁恒€?(Apply the worldview and methodology of dialectical materialism.) [2]"
+  },
+  {
+    "id": "86",
+    "term": "鐙珛鑷富",
+    "translation": "Independence and self-reliance",
+    "category": "鏀挎不鐞嗚",
+    "example": "鐙珛鑷富鏄腑鍗庢皯鏃忕簿绁炰箣榄傘€?(Independence and self-reliance are the soul of the Chinese national spirit.) [4]"
+  },
+  {
+    "id": "87",
+    "term": "鑹拌嫤濂嬫枟",
+    "translation": "Hard work and plain living",
+    "category": "绮剧鏂囧寲",
+    "example": "姘歌繙淇濇寔鑹拌嫤濂嬫枟鐨勪紭鑹綔椋庛€?(Always maintain the fine tradition of hard work and plain living.) [4]"
+  },
+  {
+    "id": "88",
+    "term": "鎵硅瘎涓庤嚜鎴戞壒璇?,
+    "translation": "Criticism and self-criticism",
+    "category": "鏀挎不鐞嗚",
+    "example": "鐢ㄥソ鎵硅瘎鍜岃嚜鎴戞壒璇勬鍣ㄣ€?(Make good use of the weapon of criticism and self-criticism.) [2]"
+  },
+  {
+    "id": "89",
+    "term": "姘戜富闆嗕腑鍒?,
+    "translation": "Democratic centralism",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔姘戜富闆嗕腑鍒跺師鍒欍€?(Adhere to the principle of democratic centralism.) [3]"
+  },
+  {
+    "id": "90",
+    "term": "鏀儴寤哄湪杩炰笂",
+    "translation": "Organize Party branches on a company basis",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "鈥滄敮閮ㄥ缓鍦ㄨ繛涓娾€濇槸鍏氶瀵煎啗闃熺殑閲嶈鍒跺害銆?(Organizing Party branches on a company basis is an important system for the Party's leadership over the military.) [1]"
+  },
+  {
+    "id": "91",
+    "term": "鐪熺悊鏍囧噯闂澶ц璁?,
+    "translation": "The debate on the criterion for testing truth",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "鐪熺悊鏍囧噯闂澶ц璁烘墦鐮翠簡鎬濇兂鍍靛寲銆?(The debate on the criterion for testing truth broke ideological stagnation.) [1]"
+  },
+  {
+    "id": "92",
+    "term": "鐧惧勾鏈湁涔嬪ぇ鍙樺眬",
+    "translation": "Profound changes unseen in a century",
+    "category": "鏍稿績姒傚康",
+    "example": "涓栫晫姝ｇ粡鍘嗙櫨骞存湭鏈変箣澶у彉灞€銆?(The world is undergoing profound changes unseen in a century.) [3]"
+  },
+  {
+    "id": "93",
+    "term": "鏋ˉ缁忛獙",
+    "translation": "The Fengqiao model",
+    "category": "鏍稿績姒傚康",
+    "example": "鍧氭寔鍜屽彂灞曟柊鏃朵唬鈥滄灚妗ョ粡楠屸€濄€?(Uphold and develop the Fengqiao model for promoting community-level governance in the new era.) [3]"
+  },
+  {
+    "id": "94",
+    "term": "娴︿笢寮€鍙戝紑鏀?,
+    "translation": "The development and opening up of Pudong",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "娴︿笢寮€鍙戝紑鏀惧湪涓浗鏀归潻寮€鏀惧彶涓婂叿鏈夐噸瑕佹剰涔夈€?(The development and opening up of Pudong is of great significance in the history of China's reform and opening up.) [2]"
+  },
+  {
+    "id": "95",
+    "term": "瑗块儴澶у紑鍙?,
+    "translation": "The large-scale development of the western region",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "娣卞叆瀹炴柦瑗块儴澶у紑鍙戞垬鐣ャ€?(Further implement the strategy for the large-scale development of the western region.) [3]"
+  },
+  {
+    "id": "96",
+    "term": "涓滃寳鎸叴",
+    "translation": "The revitalization of the Northeast",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鎺ㄥ姩涓滃寳鍏ㄩ潰鎸叴鍙栧緱鏂扮獊鐮淬€?(Achieve new breakthroughs in the full revitalization of the Northeast.) [3]"
+  },
+  {
+    "id": "97",
+    "term": "涓儴宕涜捣",
+    "translation": "The rise of the central region",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "淇冭繘涓儴鍦板尯鍔犲揩宕涜捣銆?(Accelerate the rise of the central region.) [3]"
+  },
+  {
+    "id": "98",
+    "term": "浜触鍐€鍗忓悓鍙戝睍",
+    "translation": "Coordinated development of the Beijing-Tianjin-Hebei region",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鎺ㄨ繘浜触鍐€鍗忓悓鍙戝睍銆?(Promote the coordinated development of the Beijing-Tianjin-Hebei region.) [3]"
+  },
+  {
+    "id": "99",
+    "term": "闀挎睙缁忔祹甯?,
+    "translation": "The Yangtze River Economic Belt",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鍏ㄩ潰鎺ㄥ姩闀挎睙缁忔祹甯﹂珮璐ㄩ噺鍙戝睍銆?(Comprehensively promote the high-quality development of the Yangtze River Economic Belt.) [3]"
+  },
+  {
+    "id": "100",
+    "term": "绮ゆ腐婢冲ぇ婀惧尯",
+    "translation": "The Guangdong-Hong Kong-Macao Greater Bay Area",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鎺ㄨ繘绮ゆ腐婢冲ぇ婀惧尯寤鸿銆?(Advance the development of the Guangdong-Hong Kong-Macao Greater Bay Area.) [3]"
+  },`r`n  {"id": "101",
+    "term": "浜斿洓杩愬姩",
+    "translation": "The May Fourth Movement",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "浜斿洓杩愬姩瀛曡偛浜嗕互鐖卞浗銆佽繘姝ャ€佹皯涓汇€佺瀛︿负涓昏鍐呭鐨勪紵澶т簲鍥涚簿绁炪€?(The May Fourth Movement gave birth to the great May Fourth Spirit, with patriotism, progress, democracy, and science as its main content.) [1]"
+  },
+  {
+    "id": "102",
+    "term": "鍏竷浼氳",
+    "translation": "The August 7th Meeting",
+    "category": "閲嶈浼氳",
+    "example": "鍏竷浼氳纭畾浜嗗湡鍦伴潻鍛藉拰姝﹁鍙嶆姉鍥芥皯鍏氬弽鍔ㄧ粺娌荤殑鎬绘柟閽堛€?(The August 7th Meeting established the general policy of agrarian revolution and armed resistance against the reactionary rule of the Kuomintang.) [1]"
+  },
+  {
+    "id": "103",
+    "term": "鏋潌瀛愰噷闈㈠嚭鏀挎潈",
+    "translation": "Political power grows out of the barrel of a gun",
+    "category": "鏀挎不鐞嗚",
+    "example": "姣涙辰涓滄彁鍑轰簡鈥滄灙鏉嗗瓙閲岄潰鍑烘斂鏉冣€濈殑钁楀悕璁烘柇銆?(Mao Zedong put forward the famous assertion that 'political power grows out of the barrel of a gun'.) [1]"
+  },
+  {
+    "id": "104",
+    "term": "鏄熸槦涔嬬伀锛屽彲浠ョ噹鍘?,
+    "translation": "A single spark can start a prairie fire",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "姣涙辰涓滅瀛﹀垎鏋愪簡涓浗闈╁懡鐨勫舰鍔匡紝鎸囧嚭鈥滄槦鏄熶箣鐏紝鍙互鐕庡師鈥濄€?(Scientifically analyzing the situation of the Chinese revolution, Mao Zedong pointed out that 'a single spark can start a prairie fire'.) [5]"
+  },
+  {
+    "id": "105",
+    "term": "鍐滄潙鍖呭洿鍩庡競",
+    "translation": "Encircling the cities from the rural areas",
+    "category": "鎴樼暐鎴樻湳",
+    "example": "鍏氬紑杈熶簡鍐滄潙鍖呭洿鍩庡競銆佹瑁呭ず鍙栨斂鏉冪殑姝ｇ‘闈╁懡閬撹矾銆?(The Party pioneered the correct revolutionary path of encircling the cities from the rural areas and seizing state power with armed force.) [4]"
+  },
+  {
+    "id": "106",
+    "term": "瑗垮畨浜嬪彉",
+    "translation": "The Xi'an Incident",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "瑗垮畨浜嬪彉鐨勫拰骞宠В鍐筹紝淇冩垚浜嗘姉鏃ユ皯鏃忕粺涓€鎴樼嚎鐨勫垵姝ュ舰鎴愩€?(The peaceful settlement of the Xi'an Incident led to the initial formation of the Chinese united front against Japanese aggression.) [1]"
+  },
+  {
+    "id": "107",
+    "term": "娲涘窛浼氳",
+    "translation": "The Luochuan Meeting",
+    "category": "閲嶈浼氳",
+    "example": "娲涘窛浼氳閫氳繃浜嗐€婃姉鏃ユ晳鍥藉崄澶х翰棰嗐€嬨€?(The Luochuan Meeting adopted the Ten-Point Program for Resisting Japan and Saving the Nation.) [1]"
+  },
+  {
+    "id": "108",
+    "term": "骞冲瀷鍏冲ぇ鎹?,
+    "translation": "The Battle of Pingxingguan",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "骞冲瀷鍏冲ぇ鎹锋墦鐮翠簡鏃ュ啗鈥滀笉鍙垬鑳溾€濈殑绁炶瘽銆?(The Battle of Pingxingguan shattered the myth of the 'invincibility' of the Japanese army.) [1]"
+  },
+  {
+    "id": "109",
+    "term": "鐧惧洟澶ф垬",
+    "translation": "The Hundred Regiments Offensive",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "鐧惧洟澶ф垬鏋佸ぇ鍦版尟濂嬩簡鍏ㄥ浗浜烘皯浜夊彇鎶楁垬鑳滃埄鐨勪俊蹇冦€?(The Hundred Regiments Offensive greatly inspired the confidence of the people across the country in winning the War of Resistance.) [1]"
+  },
+  {
+    "id": "110",
+    "term": "鎸佷箙鎴?,
+    "translation": "Protracted war",
+    "category": "鎴樼暐鎴樻湳",
+    "example": "銆婅鎸佷箙鎴樸€嬬郴缁熼槓鏄庝簡鍏氱殑鎶楁棩鎸佷箙鎴樻垬鐣ユ€绘柟閽堛€?(On Protracted War systematically expounded the Party's general strategic policy of a protracted war against Japanese aggression.) [5]"
+  },
+  {
+    "id": "111",
+    "term": "閲嶅簡璋堝垽",
+    "translation": "The Chongqing Negotiations",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "姣涙辰涓滆荡閲嶅簡璋堝垽锛岃〃鏄庝簡涓浗鍏变骇鍏氫簤鍙栧拰骞虫皯涓荤殑璇氭剰銆?(Mao Zedong went to Chongqing for negotiations, demonstrating the CPC's sincerity in striving for peace and democracy.) [1]"
+  },
+  {
+    "id": "112",
+    "term": "涓夊ぇ鎴樺焦",
+    "translation": "The three major campaigns (Liaoshen, Huaihai, and Pingjin)",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "涓夊ぇ鎴樺焦鍩烘湰涓婃秷鐏簡鍥芥皯鍏氬啗闃熺殑涓诲姏銆?(The three major campaigns basically wiped out the main forces of the Kuomintang army.) [1]"
+  },
+  {
+    "id": "113",
+    "term": "娓℃睙鎴樺焦",
+    "translation": "The Cross-Yangtze River Campaign",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "娓℃睙鎴樺焦瀹ｅ憡浜嗗浗姘戝厷鍙嶅姩缁熸不鐨勮鐏€?(The Cross-Yangtze River Campaign marked the collapse of the reactionary rule of the Kuomintang.) [1]"
+  },
+  {
+    "id": "114",
+    "term": "涓冨眾浜屼腑鍏ㄤ細",
+    "translation": "The Second Plenary Session of the Seventh CPC Central Committee",
+    "category": "閲嶈浼氳",
+    "example": "姣涙辰涓滃湪涓冨眾浜屼腑鍏ㄤ細涓婃彁鍑轰簡鈥滀袱涓姟蹇呪€濄€?(Mao Zedong put forward the 'Two Musts' at the Second Plenary Session of the Seventh CPC Central Committee.) [4]"
+  },
+  {
+    "id": "115",
+    "term": "涓や釜鍔″繀",
+    "translation": "The Two Musts",
+    "category": "绮剧鏂囧寲",
+    "example": "鍔″繀浣垮悓蹇椾滑缁х画鍦颁繚鎸佽唉铏氥€佽皑鎱庛€佷笉楠勩€佷笉韬佺殑浣滈锛屽姟蹇呬娇鍚屽織浠户缁湴淇濇寔鑹拌嫤濂嬫枟鐨勪綔椋庛€?(Comrades must be taught to remain modest, prudent and free from arrogance and rashness in their style of work. Comrades must be taught to preserve the style of plain living and hard struggle.) [4]"
+  },
+  {
+    "id": "116",
+    "term": "涓夊ぇ绾緥鍏」娉ㄦ剰",
+    "translation": "The Three Main Rules of Discipline and the Eight Points for Attention",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "瑙ｆ斁鍐涗弗鏍奸伒瀹堚€滀笁澶х邯寰嬪叓椤规敞鎰忊€濄€?(The People's Liberation Army strictly observed the Three Main Rules of Discipline and the Eight Points for Attention.) [5]"
+  },
+  {
+    "id": "117",
+    "term": "鍜屽钩鍏卞浜旈」鍘熷垯",
+    "translation": "The Five Principles of Peaceful Coexistence",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "涓浗濮嬬粓濂夎鍜屽钩鍏卞浜旈」鍘熷垯銆?(China always adheres to the Five Principles of Peaceful Coexistence.) [3]"
+  },
+  {
+    "id": "118",
+    "term": "姹傚悓瀛樺紓",
+    "translation": "Seeking common ground while shelving differences",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "涓囬殕浼氳涓婏紝涓浗浠ｈ〃鍥㈡彁鍑轰簡鈥滄眰鍚屽瓨寮傗€濈殑鏂归拡銆?(At the Bandung Conference, the Chinese delegation proposed the principle of 'seeking common ground while shelving differences'.) [1]"
+  },
+  {
+    "id": "119",
+    "term": "涓叡鍏ぇ",
+    "translation": "The Eighth National Congress of the CPC",
+    "category": "閲嶈浼氳",
+    "example": "涓叡鍏ぇ姝ｇ‘鍒嗘瀽浜嗗浗鍐呬富瑕佺煕鐩剧殑鍙樺寲銆?(The Eighth National Congress of the CPC correctly analyzed the changes in the principal contradiction within the country.) [1]"
+  },
+  {
+    "id": "120",
+    "term": "鍥涢」鍩烘湰鍘熷垯",
+    "translation": "The Four Cardinal Principles",
+    "category": "鏀挎不鐞嗚",
+    "example": "蹇呴』鍧氭寔鍥涢」鍩烘湰鍘熷垯锛岃繖鏄珛鍥戒箣鏈€?(We must uphold the Four Cardinal Principles, which are the foundation for building the country.) [4]"
+  },
+  {
+    "id": "121",
+    "term": "绾㈠博绮剧",
+    "translation": "The Hongyan Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "绾㈠博绮剧褰版樉浜嗗叡浜у厷浜哄潥濡傜鐭崇殑鐞嗘兂淇″康銆?(The Hongyan Spirit demonstrates the rock-solid ideals and convictions of Communists.) [2]"
+  },
+  {
+    "id": "122",
+    "term": "娌傝挋绮剧",
+    "translation": "The Yimeng Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "姘翠钩浜よ瀺銆佺敓姝讳笌鍏遍摳灏变簡浼熷ぇ鐨勬矀钂欑簿绁炪€?(The great Yimeng Spirit was forged through the close bond and shared destiny between the military and the people.) [2]"
+  },
+  {
+    "id": "123",
+    "term": "澶у簡绮剧",
+    "translation": "The Daqing Spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "澶у簡绮剧銆侀搧浜虹簿绁炴縺鍔辩潃涓€浠ｄ唬鐭虫补宸ヤ汉銆?(The Daqing Spirit and the Iron Man Spirit inspire generations of oil workers.) [2]"
+  },
+  {
+    "id": "124",
+    "term": "鎶楁椽绮剧",
+    "translation": "The spirit of combating floods",
+    "category": "绮剧鏂囧寲",
+    "example": "涓囦紬涓€蹇冦€佷紬蹇楁垚鍩庢槸鎶楁椽绮剧鐨勬牳蹇冦€?(Being united as one and overcoming difficulties together is the core of the spirit of combating floods.) [2]"
+  },
+  {
+    "id": "125",
+    "term": "鎶楀嚮闈炲吀绮剧",
+    "translation": "The spirit of combating SARS",
+    "category": "绮剧鏂囧寲",
+    "example": "鎴戜滑寮樻壃浼熷ぇ鐨勬姉鍑婚潪鍏哥簿绁烇紝鎴樿儨浜嗙柅鎯呫€?(We carried forward the great spirit of combating SARS and defeated the epidemic.) [1]"
+  },
+  {
+    "id": "126",
+    "term": "浼熷ぇ鎶楃柅绮剧",
+    "translation": "The great spirit of combating the COVID-19 pandemic",
+    "category": "绮剧鏂囧寲",
+    "example": "鐢熷懡鑷充笂銆佷妇鍥藉悓蹇冦€佽垗鐢熷繕姝汇€佸皧閲嶇瀛︺€佸懡杩愪笌鍏辩殑浼熷ぇ鎶楃柅绮剧銆?(The great spirit of combating the COVID-19 pandemic features putting people's lives first, nationwide solidarity, sacrifice, respect for science, and a sense of mission for humanity.) [4]"
+  },
+  {
+    "id": "127",
+    "term": "鑴辫传鏀诲潥绮剧",
+    "translation": "The spirit of poverty alleviation",
+    "category": "绮剧鏂囧寲",
+    "example": "涓婁笅鍚屽績銆佸敖閿愬嚭鎴樸€佺簿鍑嗗姟瀹炪€佸紑鎷撳垱鏂般€佹敾鍧氬厠闅俱€佷笉璐熶汉姘戠殑鑴辫传鏀诲潥绮剧銆?(The spirit of poverty alleviation is characterized by solidarity, pooling of all resources, targeted and pragmatic actions, innovation, tackling tough challenges, and living up to the people's expectations.) [4]"
+  },
+  {
+    "id": "128",
+    "term": "涓濊矾绮剧",
+    "translation": "The Silk Road spirit",
+    "category": "绮剧鏂囧寲",
+    "example": "寮樻壃鍜屽钩鍚堜綔銆佸紑鏀惧寘瀹广€佷簰瀛︿簰閴淬€佷簰鍒╁叡璧㈢殑涓濊矾绮剧銆?(Carry forward the Silk Road spirit of peace and cooperation, openness and inclusiveness, mutual learning, and mutual benefit.) [3]"
+  },
+  {
+    "id": "129",
+    "term": "绉戝瀹剁簿绁?,
+    "translation": "The spirit of scientists",
+    "category": "绮剧鏂囧寲",
+    "example": "澶у姏寮樻壃鑳告€€绁栧浗銆佹湇鍔′汉姘戠殑浼樼绉戝瀹剁簿绁炪€?(Vigorously carry forward the excellent spirit of scientists characterized by patriotism and serving the people.) [2]"
+  },
+  {
+    "id": "130",
+    "term": "鏀归潻寮€鏀剧簿绁?,
+    "translation": "The spirit of reform and opening up",
+    "category": "绮剧鏂囧寲",
+    "example": "浼熷ぇ鏀归潻寮€鏀剧簿绁烇紝鏋佸ぇ涓板瘜浜嗘皯鏃忕簿绁炲唴娑点€?(The great spirit of reform and opening up has greatly enriched the Chinese national spirit.) [4]"
+  },
+  {
+    "id": "131",
+    "term": "涓や釜纭珛",
+    "translation": "The Two Establishes",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏氱‘绔嬩範杩戝钩鍚屽織鍏氫腑澶殑鏍稿績銆佸叏鍏氱殑鏍稿績鍦颁綅锛岀‘绔嬩範杩戝钩鏂版椂浠ｄ腑鍥界壒鑹茬ぞ浼氫富涔夋€濇兂鐨勬寚瀵煎湴浣嶃€?(The Party has established Comrade Xi Jinping's core position on the Party Central Committee and in the Party as a whole, and defined the guiding role of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era.) [3]"
+  },
+  {
+    "id": "132",
+    "term": "涓変釜鍔″繀",
+    "translation": "The Three Imperatives",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄥ厷鍚屽織鍔″繀涓嶅繕鍒濆績銆佺墷璁颁娇鍛斤紝鍔″繀璋﹁櫄璋ㄦ厧銆佽壈鑻﹀鏂楋紝鍔″繀鏁簬鏂椾簤銆佸杽浜庢枟浜夈€?(All Party comrades must remain true to our original aspiration and keep our mission firmly in mind; remain modest, prudent, and hardworking; and dare to struggle and be good at struggling.) [3]"
+  },
+  {
+    "id": "133",
+    "term": "涓や釜缁撳悎",
+    "translation": "The Two Integrations",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鎶婇┈鍏嬫€濅富涔夊熀鏈師鐞嗗悓涓浗鍏蜂綋瀹為檯鐩哥粨鍚堛€佸悓涓崕浼樼浼犵粺鏂囧寲鐩哥粨鍚堛€?(We must continue to integrate the basic tenets of Marxism with China's specific realities and fine traditional Chinese culture.) [3]"
+  },
+  {
+    "id": "134",
+    "term": "鍥涘彶",
+    "translation": "The Four Histories",
+    "category": "鏍稿績姒傚康",
+    "example": "娣卞叆寮€灞曞厷鍙层€佹柊涓浗鍙层€佹敼闈╁紑鏀惧彶銆佺ぞ浼氫富涔夊彂灞曞彶鏁欒偛銆?(Extensively carry out education on the history of the CPC, the history of New China, the history of reform and opening up, and the history of socialist development.) [4]"
+  },
+  {
+    "id": "135",
+    "term": "鐢熸€佹枃鏄?,
+    "translation": "Ecological civilization",
+    "category": "鏍稿績姒傚康",
+    "example": "寤鸿缇庝附涓浗锛屾帹杩涚敓鎬佹枃鏄庡缓璁俱€?(Build a Beautiful China and promote ecological civilization.) [3]"
+  },
+  {
+    "id": "136",
+    "term": "鎬讳綋鍥藉瀹夊叏瑙?,
+    "translation": "A holistic approach to national security",
+    "category": "鏍稿績姒傚康",
+    "example": "璐交鎬讳綋鍥藉瀹夊叏瑙傦紝缁熺鍙戝睍鍜屽畨鍏ㄣ€?(Apply a holistic approach to national security and coordinate development and security.) [3]"
+  },
+  {
+    "id": "137",
+    "term": "鏂囧寲寮哄浗",
+    "translation": "A socialist cultural power",
+    "category": "鏍稿績姒傚康",
+    "example": "鎺ㄨ繘鏂囧寲鑷俊鑷己锛岄摳灏辩ぞ浼氫富涔夋枃鍖栨柊杈夌厡銆?(Build cultural confidence and strength, and secure new successes in developing socialist culture.) [3]"
+  },
+  {
+    "id": "138",
+    "term": "鑸ぉ寮哄浗",
+    "translation": "A space power",
+    "category": "鏍稿績姒傚康",
+    "example": "鍔犲揩寤鸿鑸ぉ寮哄浗銆?(Accelerate steps to build China into a space power.) [3]"
+  },
+  {
+    "id": "139",
+    "term": "浜ら€氬己鍥?,
+    "translation": "A transport power",
+    "category": "鏍稿績姒傚康",
+    "example": "鍔犲揩寤鸿浜ら€氬己鍥姐€?(Accelerate steps to build China into a transport power.) [3]"
+  },
+  {
+    "id": "140",
+    "term": "鏁板瓧涓浗",
+    "translation": "Digital China",
+    "category": "鏍稿績姒傚康",
+    "example": "鍔犲揩寤鸿缃戠粶寮哄浗銆佹暟瀛椾腑鍥姐€?(Accelerate the development of a cyber superpower and Digital China.) [3]"
+  },
+  {
+    "id": "141",
+    "term": "鍋ュ悍涓浗",
+    "translation": "A Healthy China",
+    "category": "鏍稿績姒傚康",
+    "example": "鍏ㄩ潰鎺ㄨ繘鍋ュ悍涓浗寤鸿銆?(Comprehensively advance the Healthy China Initiative.) [3]"
+  },
+  {
+    "id": "142",
+    "term": "缇庝附涓浗",
+    "translation": "A Beautiful China",
+    "category": "鏍稿績姒傚康",
+    "example": "浜轰笌鑷劧鍜岃皭鍏辩敓鐨勭編涓戒腑鍥姐€?(A Beautiful China where humanity and nature exist in harmony.) [3]"
+  },
+  {
+    "id": "143",
+    "term": "骞冲畨涓浗",
+    "translation": "A Peaceful China",
+    "category": "鏍稿績姒傚康",
+    "example": "寤鸿鏇撮珮姘村钩鐨勫钩瀹変腑鍥姐€?(Build a Peaceful China at a higher level.) [3]"
+  },
+  {
+    "id": "144",
+    "term": "娉曟不涓浗",
+    "translation": "A Rule of Law China",
+    "category": "鏍稿績姒傚康",
+    "example": "鍏ㄩ潰鎺ㄨ繘鍥藉鍚勬柟闈㈠伐浣滄硶娌诲寲锛屽缓璁炬硶娌讳腑鍥姐€?(Ensure all state work is carried out under the rule of law and build a Rule of Law China.) [3]"
+  },
+  {
+    "id": "145",
+    "term": "鍏」瑙勫畾",
+    "translation": "The central party leadership's eight-point decision on improving conduct",
+    "category": "鏀挎不鐞嗚",
+    "example": "閿茶€屼笉鑸嶈惤瀹炰腑澶叓椤硅瀹氱簿绁炪€?(Work ceaselessly to implement the central party leadership's eight-point decision on improving conduct.) [3]"
+  },
+  {
+    "id": "146",
+    "term": "宸¤鍒跺害",
+    "translation": "The system of disciplinary inspections",
+    "category": "鏍稿績姒傚康",
+    "example": "鍙戞尌鏀挎不宸¤鍒╁墤浣滅敤銆?(Give full play to political inspections as a sharp sword.) [3]"
+  },
+  {
+    "id": "147",
+    "term": "闆跺蹇?,
+    "translation": "Zero tolerance",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鍙楄纯琛岃纯涓€璧锋煡锛屾儵娌绘柊鍨嬭厫璐ュ拰闅愭€ц厫璐ワ紝鍧氭寔闆跺蹇嶇殑鎬佸害銆?(We will investigate both those who take bribes and those who offer them, punish new and disguised forms of corruption, and maintain a zero-tolerance attitude.) [3]"
+  },
+  {
+    "id": "148",
+    "term": "鎵撹檸鎷嶈潎",
+    "translation": "Taking out tigers and swatting flies",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鈥滆€佽檸鈥濄€佲€滆媿铦団€濅竴璧锋墦銆?(We will persist in taking out 'tigers' and swatting 'flies' together.) [4]"
+  },
+  {
+    "id": "149",
+    "term": "鎴夸綇涓嶇倰",
+    "translation": "Housing is for living in, not for speculation",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鍧氭寔鎴垮瓙鏄敤鏉ヤ綇鐨勩€佷笉鏄敤鏉ョ倰鐨勫畾浣嶃€?(Adhere to the principle that housing is for living in, not for speculation.) [3]"
+  },
+  {
+    "id": "150",
+    "term": "纰宠揪宄?,
+    "translation": "Peak carbon emissions",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "绋冲Ε鎺ㄨ繘纰宠揪宄扮⒊涓拰銆?(Work actively and prudently toward the goals of reaching peak carbon emissions and carbon neutrality.) [3]"
+  },
+  {
+    "id": "151",
+    "term": "纰充腑鍜?,
+    "translation": "Carbon neutrality",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鍔姏浜夊彇2060骞村墠瀹炵幇纰充腑鍜屻€?(Strive to achieve carbon neutrality before 2060.) [3]"
+  },
+  {
+    "id": "152",
+    "term": "涓撶簿鐗规柊",
+    "translation": "Specialized and sophisticated enterprises that produce new and unique products",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鏀寔涓撶簿鐗规柊浼佷笟鍙戝睍銆?(Support the development of specialized and sophisticated enterprises that produce new and unique products.) [3]"
+  },
+  {
+    "id": "153",
+    "term": "鍏ㄧ悆鍙戝睍鍊¤",
+    "translation": "The Global Development Initiative",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "涓浗鎻愬嚭浜嗗叏鐞冨彂灞曞€¤銆?(China has put forward the Global Development Initiative.) [3]"
+  },
+  {
+    "id": "154",
+    "term": "鍏ㄧ悆瀹夊叏鍊¤",
+    "translation": "The Global Security Initiative",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "涓浗绉瀬钀藉疄鍏ㄧ悆瀹夊叏鍊¤銆?(China is actively implementing the Global Security Initiative.) [3]"
+  },
+  {
+    "id": "155",
+    "term": "鍏ㄧ悆鏂囨槑鍊¤",
+    "translation": "The Global Civilization Initiative",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "涓浗鎻愬嚭鍏ㄧ悆鏂囨槑鍊¤锛屼績杩涙枃鏄庝氦娴佷簰閴淬€?(China proposes the Global Civilization Initiative to promote cultural exchanges and mutual learning.) [2]"
+  },
+  {
+    "id": "156",
+    "term": "浜茶瘹鎯犲",
+    "translation": "Amity, sincerity, mutual benefit, and inclusiveness",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "鍧氭寔浜茶瘹鎯犲鍜屼笌閭讳负鍠勩€佷互閭讳负浼村懆杈瑰浜ゆ柟閽堛€?(Adhere to the principle of amity, sincerity, mutual benefit, and inclusiveness, and the foreign policy of forging friendship and partnership with our neighbors.) [3]"
+  },
+  {
+    "id": "157",
+    "term": "鐪熷疄浜茶瘹",
+    "translation": "Sincerity, real results, amity, and good faith",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "绉夋寔鐪熷疄浜茶瘹鐞嗗康鍜屾纭箟鍒╄鍔犲己鍚屽彂灞曚腑鍥藉鍥㈢粨鍚堜綔銆?(Strengthen solidarity and cooperation with other developing countries guided by the principles of sincerity, real results, amity, and good faith, and of pursuing the greater good and shared interests.) [3]"
+  },
+  {
+    "id": "158",
+    "term": "鍏卞晢鍏卞缓鍏变韩",
+    "translation": "Extensive consultation, joint contribution, and shared benefits",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "鍧氭寔鍏卞晢鍏卞缓鍏变韩鐨勫叏鐞冩不鐞嗚銆?(Adhere to the global governance principle of extensive consultation, joint contribution, and shared benefits.) [3]"
+  },
+  {
+    "id": "159",
+    "term": "寮哄啗鐩爣",
+    "translation": "The Party's goal of building a strong military",
+    "category": "鍥介槻鍐涢槦",
+    "example": "瀹炵幇鍏氬湪鏂版椂浠ｇ殑寮哄啗鐩爣銆?(Achieve the Party's goal of building a strong military in the new era.) [3]"
+  },
+  {
+    "id": "160",
+    "term": "鍚厷鎸囨尌",
+    "translation": "Follow the Party's command",
+    "category": "鍥介槻鍐涢槦",
+    "example": "寤鸿涓€鏀惉鍏氭寚鎸ャ€佽兘鎵撹儨浠椼€佷綔椋庝紭鑹殑浜烘皯鍐涢槦銆?(Build a people's military that follows the Party's command, can fight and win, and maintains excellent conduct.) [2]"
+  },
+  {
+    "id": "161",
+    "term": "鑳芥墦鑳滀粭",
+    "translation": "Be capable of winning battles",
+    "category": "鍥介槻鍐涢槦",
+    "example": "鍏ㄩ潰鎻愰珮鍐涢槦鎹嶅崼鍥藉涓绘潈銆佸畨鍏ㄣ€佸彂灞曞埄鐩婄殑鎴樼暐鑳藉姏锛岀‘淇濊兘鎵撹儨浠椼€?(Comprehensively enhance the military's strategic capability to defend national sovereignty, security, and development interests, ensuring it is capable of winning battles.) [3]"
+  },
+  {
+    "id": "162",
+    "term": "浣滈浼樿壇",
+    "translation": "Maintain excellent conduct",
+    "category": "鍥介槻鍐涢槦",
+    "example": "鍧氭寔鏀挎不寤哄啗锛岀‘淇濋儴闃熶綔椋庝紭鑹€?(Uphold political loyalty in the military to ensure it maintains excellent conduct.) [2]"
+  },
+  {
+    "id": "163",
+    "term": "鍐涙皯铻嶅悎",
+    "translation": "Military-civilian integration",
+    "category": "鍥介槻鍐涢槦",
+    "example": "娣卞叆瀹炴柦鍐涙皯铻嶅悎鍙戝睍鎴樼暐銆?(Further implement the strategy of military-civilian integration.) [2]"
+  },
+  {
+    "id": "164",
+    "term": "鏀挎不鍗忓晢鍒跺害",
+    "translation": "The system of multiparty cooperation and political consultation",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鍜屽畬鍠勪腑鍥藉叡浜у厷棰嗗鐨勫鍏氬悎浣滃拰鏀挎不鍗忓晢鍒跺害銆?(Uphold and improve the system of multiparty cooperation and political consultation under the leadership of the CPC.) [3]"
+  },
+  {
+    "id": "165",
+    "term": "浜烘皯浠ｈ〃澶т細鍒跺害",
+    "translation": "The system of people's congresses",
+    "category": "鏀挎不鐞嗚",
+    "example": "浜烘皯浠ｈ〃澶т細鍒跺害鏄垜鍥界殑鏍规湰鏀挎不鍒跺害銆?(The system of people's congresses is China's fundamental political system.) [3]"
+  },
+  {
+    "id": "166",
+    "term": "姘戞棌鍖哄煙鑷不鍒跺害",
+    "translation": "The system of regional ethnic autonomy",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏ㄩ潰璐交鍏氱殑姘戞棌鏀跨瓥锛屽潥鎸佸拰瀹屽杽姘戞棌鍖哄煙鑷不鍒跺害銆?(Fully implement the Party's policies on ethnic affairs, and uphold and improve the system of regional ethnic autonomy.) [3]"
+  },
+  {
+    "id": "167",
+    "term": "鍩哄眰缇や紬鑷不鍒跺害",
+    "translation": "The system of primary-level mass self-governance",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍋ュ叏鍩哄眰鍏氱粍缁囬瀵肩殑鍩哄眰缇や紬鑷不鏈哄埗銆?(Improve the mechanisms for primary-level mass self-governance led by primary-level Party organizations.) [3]"
+  },
+  {
+    "id": "168",
+    "term": "椹厠鎬濅富涔変腑鍥藉寲鏃朵唬鍖?,
+    "translation": "Adapting Marxism to the Chinese context and the needs of the times",
+    "category": "鏀挎不鐞嗚",
+    "example": "寮€杈熼┈鍏嬫€濅富涔変腑鍥藉寲鏃朵唬鍖栨柊澧冪晫銆?(Open a new frontier in adapting Marxism to the Chinese context and the needs of the times.) [3]"
+  },
+  {
+    "id": "169",
+    "term": "瀵嗗垏鑱旂郴缇や紬",
+    "translation": "Keep close ties with the masses",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏氱殑涓夊ぇ浼樿壇浣滈涔嬩竴鏄瘑鍒囪仈绯荤兢浼椼€?(One of the Party's three major fine traditions is keeping close ties with the masses.) [1]"
+  },
+  {
+    "id": "170",
+    "term": "鐞嗚鑱旂郴瀹為檯",
+    "translation": "Integrating theory with practice",
+    "category": "鏀挎不鐞嗚",
+    "example": "鎴戜滑蹇呴』鍧氭寔鐞嗚鑱旂郴瀹為檯鐨勫椋庛€?(We must uphold the study style of integrating theory with practice.) [1]"
+  },
+  {
+    "id": "171",
+    "term": "鎬濇兂寤哄厷",
+    "translation": "Building the Party ideologically",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍙ょ敯浼氳纭珛浜嗘€濇兂寤哄厷鐨勫師鍒欍€?(The Gutian Meeting established the principle of building the Party ideologically.) [4]"
+  },
+  {
+    "id": "172",
+    "term": "鏀挎不寤哄啗",
+    "translation": "Building the military politically",
+    "category": "鍥介槻鍐涢槦",
+    "example": "璐交鏂版椂浠ｆ斂娌诲缓鍐涙柟鐣ャ€?(Implement the strategy of building the military politically in the new era.) [3]"
+  },
+  {
+    "id": "173",
+    "term": "浼熷ぇ瑙夐啋",
+    "translation": "Great awakening",
+    "category": "鍘嗗彶浜嬩欢",
+    "example": "鏀归潻寮€鏀炬槸鎴戜滑鍏氱殑涓€娆′紵澶ц閱掋€?(Reform and opening up represents a great awakening of our Party.) [4]"
+  },
+  {
+    "id": "174",
+    "term": "鍏氬唴姘戜富",
+    "translation": "Intra-party democracy",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍏氬唴姘戜富鏄厷鐨勭敓鍛姐€?(Intra-party democracy is the lifeblood of the Party.) [2]"
+  },
+  {
+    "id": "175",
+    "term": "闈╁懡鏂囩墿",
+    "translation": "Revolutionary relics",
+    "category": "绮剧鏂囧寲",
+    "example": "鍔犲己闈╁懡鏂囩墿淇濇姢鍒╃敤銆?(Strengthen the protection and utilization of revolutionary relics.) [2]"
+  },
+  {
+    "id": "176",
+    "term": "绾㈣壊鏃呮父",
+    "translation": "Red tourism",
+    "category": "绮剧鏂囧寲",
+    "example": "澶у姏鍙戝睍绾㈣壊鏃呮父锛屼紶鎵跨孩鑹插熀鍥犮€?(Vigorously develop red tourism to pass on the red legacy.) [2]"
+  },
+  {
+    "id": "177",
+    "term": "绾㈣壊鏍规嵁鍦?,
+    "translation": "Revolutionary base areas",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "鑰佸尯浜烘皯涓哄缓绔嬪拰宸╁浐闈╁懡鏍规嵁鍦颁綔鍑轰簡宸ㄥぇ鐗虹壊銆?(The people in the old revolutionary base areas made immense sacrifices to establish and consolidate these areas.) [1]"
+  },
+  {
+    "id": "178",
+    "term": "闈╁懡鐑堝＋",
+    "translation": "Revolutionary martyrs",
+    "category": "闈╁懡鍘嗗彶",
+    "example": "娣卞垏缂呮€€涓哄缓绔嬫柊涓浗鑻卞媷鐚韩鐨勯潻鍛界儓澹€?(Deeply cherish the memory of the revolutionary martyrs who courageously laid down their lives for the founding of New China.) [1]"
+  },
+  {
+    "id": "179",
+    "term": "鑻遍泟鍎垮コ",
+    "translation": "Heroic sons and daughters",
+    "category": "绮剧鏂囧寲",
+    "example": "鎶楃編鎻存湞鎴樹簤涓秾鐜板嚭澶ф壒鑻遍泟鍎垮コ銆?(A large number of heroic sons and daughters emerged during the War to Resist US Aggression and Aid Korea.) [4]"
+  },
+  {
+    "id": "180",
+    "term": "鍒濆績鍜屼娇鍛?,
+    "translation": "Original aspiration and founding mission",
+    "category": "鏀挎不鐞嗚",
+    "example": "涓轰腑鍥戒汉姘戣皨骞哥锛屼负涓崕姘戞棌璋嬪鍏达紝鏄腑鍥藉叡浜у厷浜虹殑鍒濆績鍜屼娇鍛姐€?(Seeking happiness for the Chinese people and rejuvenation for the Chinese nation is the original aspiration and founding mission of Chinese Communists.) [3]"
+  },
+  {
+    "id": "181",
+    "term": "搴曠嚎鎬濈淮",
+    "translation": "Bottom-line thinking",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔搴曠嚎鎬濈淮锛屽仛鍒板眳瀹夋€濆嵄銆?(We must apply bottom-line thinking and be prepared for worst-case scenarios.) [3]"
+  },
+  {
+    "id": "182",
+    "term": "鍘嗗彶鑰愬績",
+    "translation": "Historical patience",
+    "category": "鏀挎不鐞嗚",
+    "example": "淇濇寔鍘嗗彶鑰愬績锛屼竴鑼帴鐫€涓€鑼共銆?(Maintain historical patience and keep working at it, one generation after another.) [2]"
+  },
+  {
+    "id": "183",
+    "term": "鎴樼暐瀹氬姏",
+    "translation": "Strategic resolve",
+    "category": "鏀挎不鐞嗚",
+    "example": "淇濇寔鎴樼暐瀹氬姏锛岄泦涓簿鍔涘姙濂借嚜宸辩殑浜嬫儏銆?(Maintain strategic resolve and concentrate on running our own affairs well.) [3]"
+  },
+  {
+    "id": "184",
+    "term": "澶у厷鐙湁闅鹃",
+    "translation": "The special challenges that a large party like ours faces",
+    "category": "鏀挎不鐞嗚",
+    "example": "鏃跺埢淇濇寔瑙ｅ喅澶у厷鐙湁闅鹃鐨勬竻閱掑拰鍧氬畾銆?(Always remain clear-headed and determined in tackling the special challenges that a large party like ours faces.) [3]"
+  },
+  {
+    "id": "185",
+    "term": "鍒€鍒冨悜鍐?,
+    "translation": "Turning the blade inward",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鍒€鍒冨悜鍐呯殑鑷垜闈╁懡銆?(Adhere to self-reform by turning the blade inward.) [4]"
+  },
+  {
+    "id": "186",
+    "term": "鍥戒箣澶ц€?,
+    "translation": "The country's most fundamental interests",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍚勭骇棰嗗骞查儴瑕佸績鎬€鈥滃浗涔嬪ぇ鑰呪€濄€?(Leading officials at all levels must keep the country's most fundamental interests in mind.) [2]"
+  },
+  {
+    "id": "187",
+    "term": "鍏抽敭灏戞暟",
+    "translation": "The critical minority",
+    "category": "鏀挎不鐞嗚",
+    "example": "鎶撲綇棰嗗骞查儴杩欎釜鈥滃叧閿皯鏁扳€濄€?(Focus on leading officials, who form the 'critical minority'.) [2]"
+  },
+  {
+    "id": "188",
+    "term": "绯荤粺瑙傚康",
+    "translation": "Systematic thinking",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔绯荤粺瑙傚康锛岀粺绛规帹杩涘悇椤逛簨涓氥€?(Apply systematic thinking and coordinate the advancement of all causes.) [3]"
+  },
+  {
+    "id": "189",
+    "term": "瀹堟鍒涙柊",
+    "translation": "Upholding fundamental principles and breaking new ground",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔瀹堟鍒涙柊锛屼繚鎸佹垬鐣ュ畾鍔涖€?(Adhere to upholding fundamental principles and breaking new ground, and maintain strategic resolve.) [3]"
+  },
+  {
+    "id": "190",
+    "term": "涓ゆ璧版垬鐣?,
+    "translation": "The two-step strategic plan",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鍏ㄩ潰寤烘垚绀句細涓讳箟鐜颁唬鍖栧己鍥斤紝鎬荤殑鎴樼暐瀹夋帓鏄垎涓ゆ璧般€?(To build China into a great modern socialist country in all respects, we have adopted a two-step strategic plan.) [3]"
+  },
+  {
+    "id": "191",
+    "term": "绉戞暀鍏村浗",
+    "translation": "Revitalize China through science and education",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "瀹炴柦绉戞暀鍏村浗鎴樼暐锛屽己鍖栫幇浠ｅ寲寤鸿浜烘墠鏀拺銆?(Implement the strategy for revitalizing China through science and education, and strengthen the workforce for the modernization drive.) [3]"
+  },
+  {
+    "id": "192",
+    "term": "浜烘墠寮哄浗",
+    "translation": "Develop a quality workforce",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "娣卞叆瀹炴柦鏂版椂浠ｄ汉鎵嶅己鍥芥垬鐣ャ€?(Thoroughly implement the workforce development strategy in the new era.) [3]"
+  },
+  {
+    "id": "193",
+    "term": "鍒涙柊椹卞姩鍙戝睍",
+    "translation": "Innovation-driven development",
+    "category": "閲嶅ぇ鎴樼暐",
+    "example": "鍧氭寔鍒涙柊鍦ㄦ垜鍥界幇浠ｅ寲寤鸿鍏ㄥ眬涓殑鏍稿績鍦颁綅锛屽疄鏂藉垱鏂伴┍鍔ㄥ彂灞曟垬鐣ャ€?(We must uphold the central role of innovation in China's modernization drive and implement the innovation-driven development strategy.) [3]"
+  },
+  {
+    "id": "194",
+    "term": "鍥藉娌荤悊浣撶郴鍜屾不鐞嗚兘鍔涚幇浠ｅ寲",
+    "translation": "The modernization of China's system and capacity for governance",
+    "category": "鏍稿績姒傚康",
+    "example": "鎺ㄨ繘鍥藉娌荤悊浣撶郴鍜屾不鐞嗚兘鍔涚幇浠ｅ寲銆?(Advance the modernization of China's system and capacity for governance.) [3]"
+  },
+  {
+    "id": "195",
+    "term": "鍏ㄦ柟浣嶅浜?,
+    "translation": "All-around diplomacy",
+    "category": "澶栦氦鏀跨瓥",
+    "example": "鍏ㄩ潰鎺ㄨ繘涓浗鐗硅壊澶у浗澶栦氦锛屽舰鎴愬叏鏂逛綅銆佸灞傛銆佺珛浣撳寲鐨勫浜ゅ竷灞€銆?(We have advanced major-country diplomacy with Chinese characteristics on all fronts and established a multidimensional, multi-tiered, and all-around diplomatic layout.) [4]"
+  },
+  {
+    "id": "196",
+    "term": "浜虹被鏂囨槑鏂板舰鎬?,
+    "translation": "A new form of human advancement",
+    "category": "鏍稿績姒傚康",
+    "example": "涓浗寮忕幇浠ｅ寲鍒涢€犱簡浜虹被鏂囨槑鏂板舰鎬併€?(Chinese modernization has created a new form of human advancement.) [3]"
+  },
+  {
+    "id": "197",
+    "term": "姹熷北灏辨槸浜烘皯锛屼汉姘戝氨鏄睙灞?,
+    "translation": "The country is its people; the people are the country",
+    "category": "鏀挎不鐞嗚",
+    "example": "姹熷北灏辨槸浜烘皯锛屼汉姘戝氨鏄睙灞便€備腑鍥藉叡浜у厷棰嗗浜烘皯鎵撴睙灞便€佸畧姹熷北锛屽畧鐨勬槸浜烘皯鐨勫績銆?(This country is its people; the people are the country. As the CPC has led the people in fighting to establish and develop the People's Republic, it has really been fighting for their support.) [3]"
+  },
+  {
+    "id": "198",
+    "term": "澶х粺鎴樺伐浣滄牸灞€",
+    "translation": "A broad united front",
+    "category": "鏀挎不鐞嗚",
+    "example": "瀹屽杽澶х粺鎴樺伐浣滄牸灞€锛屽潥鎸佸ぇ鍥㈢粨澶ц仈鍚堛€?(Improve the broad united front and pursue great unity and solidarity.) [3]"
+  },
+  {
+    "id": "199",
+    "term": "鍏氱骞查儴",
+    "translation": "The principle of the Party supervising officials",
+    "category": "鏀挎不鐞嗚",
+    "example": "鍧氭寔鍏氱骞查儴鍘熷垯锛屽潥鎸佸痉鎵嶅吋澶囥€佷互寰蜂负鍏堛€?(Uphold the principle of the Party supervising officials and the principle of selecting officials on the basis of both integrity and ability, with greater weight given to integrity.) [3]"
+  },
+  {
+    "id": "200",
+    "term": "涓変欢澶т簨",
+    "translation": "Three major events",
+    "category": "鏍稿績姒傚康",
+    "example": "鏂版椂浠ｅ崄骞寸殑浼熷ぇ鍙橀潻涓紝鎴戜滑缁忓巻浜嗗鍏氬拰浜烘皯浜嬩笟鍏锋湁閲嶅ぇ鐜板疄鎰忎箟鍜屾繁杩滃巻鍙叉剰涔夌殑涓変欢澶т簨銆?(Over the past decade of the new era, we have experienced three major events of great immediate importance and profound historical significance for the cause of the Party and the people.) [3]"
+  }
+]

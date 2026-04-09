@@ -1,4 +1,4 @@
-import { ProjectTask, TaskStatus, TaskDifficulty, Term, Course, CaseStudy } from './types';
+import { ProjectTask, TaskStatus, TaskDifficulty, Course, CaseStudy } from './types';
 
 export const TASKS: ProjectTask[] = [
   {
@@ -44,44 +44,6 @@ export const TASKS: ProjectTask[] = [
     deadline: '2026-2-01',
     status: TaskStatus.COMPLETED,
     description: '协助整理相关历史文献，为后续多语种翻译做准备。'
-  }
-];
-
-export const TERMS: Term[] = [
-  {
-    id: '1',
-    term: '长征',
-    translation: 'The Long March',
-    category: '历史事件',
-    example: '长征是历史上的奇迹。 (The Long March is a miracle in history.)'
-  },
-  {
-    id: '2',
-    term: '抗日战争',
-    translation: 'The War of Resistance Against Japanese Aggression',
-    category: '历史事件',
-    example: '全民族抗战。'
-  },
-  {
-    id: '3',
-    term: '解放思想',
-    translation: 'Emancipate the mind',
-    category: '政治理论',
-    example: '解放思想，实事求是。'
-  },
-  {
-    id: '4',
-    term: '实事求是',
-    translation: 'Seek truth from facts',
-    category: '政治理论',
-    example: '我们要坚持实事求是的原则。'
-  },
-  {
-    id: '5',
-    term: '根据地',
-    translation: 'Revolutionary Base Area',
-    category: '军事',
-    example: '陕甘宁边区是重要的革命根据地。'
   }
 ];
 
