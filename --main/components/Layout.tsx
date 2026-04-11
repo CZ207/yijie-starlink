@@ -15,7 +15,7 @@ const Layout: React.FC = () => {
       { name: '任务看板', path: '/projects' },
       { name: '成长与培训', path: '/growth' },
       { name: '标准与术语', path: '/standards' },
-      { name: '合作案例', path: '/cases' },
+      { name: '合作对接', path: '/cases' },
       { name: '加入我们', path: '/join' },
       ...(user ? [{ name: '我的中心', path: '/dashboard' }] : []),
     ],

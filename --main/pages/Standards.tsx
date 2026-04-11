@@ -114,7 +114,14 @@ const Standards: React.FC = () => {
               <StandardItem title="例句对照原则" desc="涉及难词难句时，先参考术语卡片中的双语例句，再决定在字幕、解说词或图文中的落地表达。" />
               <StandardItem title="审校留痕原则" desc="政治敏感词、重大历史事件与专有名词应进行复核，必要时补充来源说明和审校备注。" />
             </ul>
-            <button className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-amber-200 transition hover:text-amber-100"><FileText size={16} /> 下载完整《译界星链质量手册》</button>
+            <a
+              href="/files/yijiexinglian-quality-manual.pdf"
+              download="译界星链质量手册.pdf"
+              className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-amber-200 transition hover:text-amber-100"
+            >
+              <FileText size={16} />
+              下载完整《译界星链质量手册》
+            </a>
           </div>
 
           <div className="rounded-3xl border border-white/10 bg-gradient-to-br from-amber-300/15 to-transparent p-6">

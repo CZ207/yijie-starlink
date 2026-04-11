@@ -7,7 +7,7 @@ const Home: React.FC = () => {
     <div className="flex flex-col">
       {/* Hero Section */}
       <div className="relative bg-primary-900 text-white overflow-hidden">
-        <div className="absolute inset-0 opacity-20 bg-[url('https://picsum.photos/1920/1080?grayscale')] bg-cover bg-center"></div>
+        <div className="absolute inset-0 opacity-20 bg-[url('https://edgeoneimg.cdn.sn/i/69da3a15af33c_1775909397.webp')] bg-cover bg-center"></div>
         <div className="relative max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8 flex flex-col items-center text-center">
           <div className="inline-flex items-center px-3 py-1 rounded-full border border-primary-400 bg-primary-800/50 backdrop-blur-sm mb-6">
             <span className="text-xs font-semibold uppercase tracking-wide">V1.0 平台上线</span>
@@ -74,17 +74,6 @@ const Home: React.FC = () => {
         </div>
       </div>
 
-      {/* Quick Stats (Static) */}
-      <div className="bg-stone-50 py-12 border-y border-stone-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
-            <StatItem value="12" label="参与高校" />
-            <StatItem value="350+" label="注册译者" />
-            <StatItem value="8" label="服务语种" />
-            <StatItem value="50+" label="完成项目" />
-          </div>
-        </div>
-      </div>
     </div>
   );
 };
@@ -98,13 +87,6 @@ const FeatureCard: React.FC<{ icon: React.ReactNode; title: string; desc: string
       <h3 className="text-xl font-bold text-stone-900 mb-2">{title}</h3>
       <p className="text-stone-600 leading-relaxed">{desc}</p>
     </div>
-  </div>
-);
-
-const StatItem: React.FC<{ value: string; label: string }> = ({ value, label }) => (
-  <div>
-    <div className="text-3xl md:text-4xl font-extrabold text-primary-700">{value}</div>
-    <div className="text-sm md:text-base font-medium text-stone-500 mt-1">{label}</div>
   </div>
 );
 
