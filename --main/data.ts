@@ -3,14 +3,16 @@ import { ProjectTask, TaskStatus, TaskDifficulty, Course, CaseStudy } from './ty
 export const TASKS: ProjectTask[] = [
   {
     id: '1',
-    title: '《延安颂》纪录片片段中英字幕',
+    title: '《烽火青春》 | 第二集：弦歌不绝',
     category: '纪录片',
     topic: '红色历史',
     language: '中英',
     difficulty: TaskDifficulty.MEDIUM,
     deadline: '2026-6-01',
-    status: TaskStatus.RECRUITING,
-    description: '需具备一定的历史名词翻译基础。'
+    status: TaskStatus.COMPLETED,
+    description: '示例参考：提供已完成的中英双语 SRT 字幕文件，供学习纪录片字幕翻译表达与格式处理。',
+    isReference: true,
+    fileUrl: '/files/fenghuo-qingchun-ep02-bilingual.srt'
   },
   {
     id: '2',
@@ -51,29 +53,29 @@ export const COURSES: Course[] = [
   {
     id: '1',
     title: '影视字幕翻译基础',
-    instructor: '祖赟',
-    type: 'Online',
+    instructor: '翻译组',
+    type: 'PDF',
     targetLevel: '初级译者学习'
   },
   {
     id: '2',
     title: '红色文化核心术语解析',
-    instructor: '王小燕',
+    instructor: '翻译组',
     type: 'PDF',
     targetLevel: '中级译者学习'
   },
   {
     id: '3',
-    title: 'Aegisub 字幕制作实战',
+    title: '字幕制作实战',
     instructor: '技术组',
-    type: 'Offline',
+    type: 'Online',
     targetLevel: '初级译者学习'
   },
   {
     id: '4',
-    title: '高级审校与质量控制',
-    instructor: '李老师',
-    type: 'Online',
+    title: '审校与质量控制',
+    instructor: '审校组',
+    type: 'PDF',
     targetLevel: '校审译者学习'
   }
 ];

@@ -1,13 +1,35 @@
-import React from 'react';
-import { ArrowRight, BookOpen, Users, Globe2, Award } from 'lucide-react';
+import React, { useEffect, useState } from 'react';
+import { ArrowRight, BookOpen, Users, Award } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
+const HERO_IMAGES = [
+  'https://edgeoneimg.cdn.sn/i/69da3a15af33c_1775909397.webp',
+  'https://edgeoneimg.cdn.sn/i/69da3a609fa6d_1775909472.webp',
+  'https://edgeoneimg.cdn.sn/i/69da3a543acf5_1775909460.webp',
+];
+
 const Home: React.FC = () => {
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
+
+  useEffect(() => {
+    const timer = window.setInterval(() => {
+      setCurrentImageIndex((previousIndex) => (previousIndex + 1) % HERO_IMAGES.length);
+    }, 10000);
+
+    return () => window.clearInterval(timer);
+  }, []);
+
   return (
     <div className="flex flex-col">
       {/* Hero Section */}
       <div className="relative bg-primary-900 text-white overflow-hidden">
-        <div className="absolute inset-0 opacity-20 bg-[url('https://edgeoneimg.cdn.sn/i/69da3a15af33c_1775909397.webp')] bg-cover bg-center"></div>
+        <div
+          className="absolute inset-0 bg-cover bg-center transition-all duration-1000"
+          style={{
+            backgroundImage: `url('${HERO_IMAGES[currentImageIndex]}')`,
+            opacity: 0.2,
+          }}
+        />
         <div className="relative max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8 flex flex-col items-center text-center">
           <div className="inline-flex items-center px-3 py-1 rounded-full border border-primary-400 bg-primary-800/50 backdrop-blur-sm mb-6">
             <span className="text-xs font-semibold uppercase tracking-wide">V1.0 平台上线</span>
@@ -73,7 +95,6 @@ const Home: React.FC = () => {
           </div>
         </div>
       </div>
-
     </div>
   );
 };

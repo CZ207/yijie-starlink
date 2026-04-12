@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { Search, Filter, Clock, Globe } from 'lucide-react';
+import { Search, Filter, Clock, Globe, FileDown } from 'lucide-react';
 import { TASKS } from '../data';
 import { TaskStatus, TaskDifficulty } from '../types';
 
@@ -21,8 +21,8 @@ const Projects: React.FC = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8 bg-stone-50 min-h-[calc(100vh-64px)]">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-stone-900">众包任务看板（示例）</h1>
-        <p className="mt-2 text-stone-600">浏览并认领适合你的翻译任务，开始实战。</p>
+        <h1 className="text-3xl font-bold text-stone-900">任务看板与示例参考</h1>
+        <p className="mt-2 text-stone-600">浏览当前展示内容，包括任务信息与可下载的学习参考示例。</p>
       </div>
 
       {/* Filters Toolbar */}
@@ -55,7 +55,7 @@ const Projects: React.FC = () => {
         <div className="relative w-full md:w-64">
           <input
             type="text"
-            placeholder="搜索任务..."
+            placeholder="搜索任务或示例..."
             className="w-full pl-10 pr-4 py-2 border border-stone-300 rounded-md focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent text-sm"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
@@ -69,16 +69,20 @@ const Projects: React.FC = () => {
         {filteredTasks.map(task => (
           <div key={task.id} className="bg-white rounded-xl shadow-sm border border-stone-200 overflow-hidden hover:shadow-md transition-shadow flex flex-col">
             <div className="p-6 flex-grow">
-              <div className="flex justify-between items-start mb-4">
+              <div className="flex justify-between items-start mb-4 gap-4">
                 <span className={`px-2 py-1 text-xs font-semibold rounded-full ${
-                  task.status === TaskStatus.RECRUITING ? 'bg-green-100 text-green-800' :
-                  task.status === TaskStatus.IN_PROGRESS ? 'bg-blue-100 text-blue-800' :
-                  'bg-stone-100 text-stone-800'
+                  task.isReference
+                    ? 'bg-amber-100 text-amber-800'
+                    : task.status === TaskStatus.RECRUITING
+                      ? 'bg-green-100 text-green-800'
+                      : task.status === TaskStatus.IN_PROGRESS
+                        ? 'bg-blue-100 text-blue-800'
+                        : 'bg-stone-100 text-stone-800'
                 }`}>
-                  {task.status}
+                  {task.isReference ? '示例参考' : task.status}
                 </span>
-                <span className="text-xs text-stone-500 flex items-center gap-1">
-                  <Clock size={12} /> {task.deadline} 预计开始时间
+                <span className="text-xs text-stone-500 flex items-center gap-1 text-right">
+                  <Clock size={12} /> {task.deadline} {task.isReference ? '资料发布时间' : '预计开始时间'}
                 </span>
               </div>
               <h3 className="text-lg font-bold text-stone-900 mb-2 line-clamp-2">{task.title}</h3>
@@ -98,20 +102,29 @@ const Projects: React.FC = () => {
               </div>
             </div>
             <div className="px-6 py-4 bg-stone-50 border-t border-stone-100">
-               {task.status === TaskStatus.RECRUITING ? (
-                 <a 
-                   href="https://wjx.cn" 
-                   target="_blank" 
-                   rel="noreferrer"
-                   className="block w-full text-center py-2 bg-primary-600 hover:bg-primary-700 text-white text-sm font-medium rounded transition-colors"
-                 >
-                   立即报名
-                 </a>
-               ) : (
-                 <button disabled className="block w-full py-2 bg-stone-200 text-stone-500 text-sm font-medium rounded cursor-not-allowed">
-                   {task.status === TaskStatus.COMPLETED ? '还未到时间' : '还未到时间'}
-                 </button>
-               )}
+              {task.isReference && task.fileUrl ? (
+                <a
+                  href={task.fileUrl}
+                  download="烽火青春-第二集-弦歌不绝-双语字幕.srt"
+                  className="inline-flex w-full items-center justify-center gap-2 rounded bg-primary-600 py-2 text-sm font-medium text-white transition-colors hover:bg-primary-700"
+                >
+                  <FileDown size={16} />
+                  下载双语字幕
+                </a>
+              ) : task.status === TaskStatus.RECRUITING ? (
+                <a 
+                  href="https://wjx.cn" 
+                  target="_blank" 
+                  rel="noreferrer"
+                  className="block w-full text-center py-2 bg-primary-600 hover:bg-primary-700 text-white text-sm font-medium rounded transition-colors"
+                >
+                  立即报名
+                </a>
+              ) : (
+                <button disabled className="block w-full py-2 bg-stone-200 text-stone-500 text-sm font-medium rounded cursor-not-allowed">
+                  还未到时间
+                </button>
+              )}
             </div>
           </div>
         ))}
@@ -119,7 +132,7 @@ const Projects: React.FC = () => {
 
       {filteredTasks.length === 0 && (
         <div className="text-center py-16">
-          <p className="text-stone-500">没有找到符合条件的任务。</p>
+          <p className="text-stone-500">没有找到符合条件的任务或示例。</p>
         </div>
       )}
     </div>

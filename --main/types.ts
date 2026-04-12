@@ -20,6 +20,8 @@ export interface ProjectTask {
   deadline: string;
   status: TaskStatus;
   description: string;
+  isReference?: boolean;
+  fileUrl?: string;
 }
 
 export interface Term {
