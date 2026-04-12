@@ -1,7 +1,7 @@
 import React from 'react';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip } from 'recharts';
 import { COURSES } from '../data';
-import { Book, PlayCircle, FileText } from 'lucide-react';
+import { Book, PlayCircle, FileText, ExternalLink, Download } from 'lucide-react';
 
 // Mock data for the radar chart example
 const radarData = [
@@ -91,9 +91,22 @@ const Growth: React.FC = () => {
                 </div>
                 <h3 className="text-lg font-bold text-stone-900 mb-2">{course.title}</h3>
                 <p className="text-sm text-stone-500 mb-4">讲师: {course.instructor}</p>
-                <button className="w-full py-2 border border-primary-600 text-primary-600 rounded hover:bg-primary-50 font-medium text-sm transition-colors">
-                  开始学习
-                </button>
+                {course.url ? (
+                  <a
+                    href={course.url}
+                    target={course.type === 'Online' ? '_blank' : undefined}
+                    rel={course.type === 'Online' ? 'noreferrer' : undefined}
+                    download={course.type === 'PDF' ? `${course.title}.pdf` : undefined}
+                    className="inline-flex w-full items-center justify-center gap-2 rounded border border-primary-600 py-2 text-sm font-medium text-primary-600 transition-colors hover:bg-primary-50"
+                  >
+                    {course.type === 'Online' ? <ExternalLink size={16} /> : <Download size={16} />}
+                    {course.type === 'Online' ? '开始学习' : '下载资料'}
+                  </a>
+                ) : (
+                  <button className="w-full py-2 border border-primary-600 text-primary-600 rounded hover:bg-primary-50 font-medium text-sm transition-colors">
+                    开始学习
+                  </button>
+                )}
               </div>
             ))}
           </div>

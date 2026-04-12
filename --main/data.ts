@@ -55,28 +55,32 @@ export const COURSES: Course[] = [
     title: '影视字幕翻译基础',
     instructor: '翻译组',
     type: 'PDF',
-    targetLevel: '初级译者学习'
+    targetLevel: '初级译者学习',
+    url: '/files/subtitle-translation-basics.pdf'
   },
   {
     id: '2',
     title: '红色文化核心术语解析',
     instructor: '翻译组',
     type: 'PDF',
-    targetLevel: '中级译者学习'
+    targetLevel: '中级译者学习',
+    url: '/files/red-culture-core-terms.pdf'
   },
   {
     id: '3',
     title: '字幕制作实战',
     instructor: '技术组',
     type: 'Online',
-    targetLevel: '初级译者学习'
+    targetLevel: '初级译者学习',
+    url: 'https://www.youtube.com/watch?v=W6EhGwHBfoc'
   },
   {
     id: '4',
     title: '审校与质量控制',
     instructor: '审校组',
     type: 'PDF',
-    targetLevel: '校审译者学习'
+    targetLevel: '校审译者学习',
+    url: '/files/translation-review-quality-control-guide.pdf'
   }
 ];
 

@@ -38,6 +38,7 @@ export interface Course {
   instructor: string;
   type: 'Online' | 'Offline' | 'PDF';
   targetLevel: string;
+  url?: string;
 }
 
 export interface CaseStudy {
